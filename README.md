@@ -1,3 +1,3 @@
 # Demo
 
-Some description. Trying out Git and Github.
+Some description! Trying out Git and Github.
